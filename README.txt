@@ -2,7 +2,7 @@ README.txt
 Metric Learning for Music Discovery with Source and Target Playlists
 Ying-Shu Kuo 2015.11.19
 
-0. Check the slides for detailed instruction.
+0. Check the slides for detailed introduction.
 http://www.slideshare.net/yingshukuo/user-preference-learning-and-playlist-generation
 
 1. What is this?
